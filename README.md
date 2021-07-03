@@ -1,1 +1,3 @@
-"# pkRepo" 
+- I have added two folders one for Sepcflow code of MS Dynamics & other for Restsharp 
+- I have used Nunit Console Runner & Pickles to generate the report whichh is created under Report folder.
+- Due to some error of Nunit Console runner testresult.xml is not generated properly.
