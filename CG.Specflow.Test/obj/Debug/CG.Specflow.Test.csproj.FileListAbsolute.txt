@@ -1,0 +1,56 @@
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\CG.Specflow.Test.dll
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\CG.Specflow.Test.pdb
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\BoDi.dll
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\Cucumber.Messages.dll
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\Gherkin.dll
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\Google.Protobuf.dll
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\nunit.framework.dll
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\SpecFlow.Internal.Json.dll
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\System.ValueTuple.dll
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\WebDriver.dll
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\WebDriver.Support.dll
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\BoDi.pdb
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\Gherkin.xml
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\Google.Protobuf.pdb
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\Google.Protobuf.xml
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\nunit.framework.xml
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\System.ValueTuple.xml
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\TechTalk.SpecFlow.xml
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.pdb
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\WebDriver.xml
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\WebDriver.Support.xml
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\obj\Debug\CG.Specflow.Test.csproj.CoreCompileInputs.cache
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\obj\Debug\CG.Specflow.Test.csproj.CopyComplete
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\obj\Debug\CG.Specflow.Test.dll
+C:\Users\KULS0001\source\Repos\CG.Specflow.Test\CG.Specflow.Test\obj\Debug\CG.Specflow.Test.pdb
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\CG.Specflow.Test.dll
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\CG.Specflow.Test.pdb
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\BoDi.dll
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\Cucumber.Messages.dll
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\Gherkin.dll
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\Google.Protobuf.dll
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\nunit.framework.dll
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\SpecFlow.Internal.Json.dll
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\System.ValueTuple.dll
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\TechTalk.SpecFlow.dll
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\WebDriver.dll
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\WebDriver.Support.dll
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\BoDi.pdb
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\Gherkin.xml
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\Google.Protobuf.pdb
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\Google.Protobuf.xml
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\nunit.framework.xml
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\System.ValueTuple.xml
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\TechTalk.SpecFlow.pdb
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\TechTalk.SpecFlow.xml
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.pdb
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\WebDriver.xml
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\bin\Debug\WebDriver.Support.xml
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\obj\Debug\CG.Specflow.Test.csproj.CoreCompileInputs.cache
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\obj\Debug\CG.Specflow.Test.csproj.CopyComplete
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\obj\Debug\CG.Specflow.Test.dll
+E:\Csharp Automation\CG.Specflow.Test\CG.Specflow.Test\obj\Debug\CG.Specflow.Test.pdb

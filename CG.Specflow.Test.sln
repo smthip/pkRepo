@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CG.Specflow.Test", "CG.Specflow.Test\CG.Specflow.Test.csproj", "{44973E53-B19C-4154-9F5E-17CB0E14BBD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CG.RestSharp.API2.Test", "CG.RestSharp.API2.Test\CG.RestSharp.API2.Test.csproj", "{A2A0388E-7DC0-42FA-B55A-AF3C08AA1C4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{183C5BA2-8595-4161-9987-3A3397DDF8C6}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44973E53-B19C-4154-9F5E-17CB0E14BBD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44973E53-B19C-4154-9F5E-17CB0E14BBD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44973E53-B19C-4154-9F5E-17CB0E14BBD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44973E53-B19C-4154-9F5E-17CB0E14BBD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A0388E-7DC0-42FA-B55A-AF3C08AA1C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A0388E-7DC0-42FA-B55A-AF3C08AA1C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A0388E-7DC0-42FA-B55A-AF3C08AA1C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A0388E-7DC0-42FA-B55A-AF3C08AA1C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B92FF33-CA96-44C3-9FC9-FE9B39CF8980}
+	EndGlobalSection
+EndGlobal
